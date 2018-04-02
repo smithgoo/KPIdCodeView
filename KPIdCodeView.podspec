@@ -25,7 +25,7 @@ s.platform     = :ios, '4.3'
 # s.osx.deployment_target = '10.7'
 s.requires_arc = true
 
-s.source_files = 'KPIdCodeView/*.{h,m}'
+s.source_files = 'KPIdCodeView/*'
 # s.resources = 'Assets'
 
 # s.ios.exclude_files = 'Classes/osx'
