@@ -1,0 +1,16 @@
+PODS:
+  - kpcodeview (0.1.0)
+
+DEPENDENCIES:
+  - kpcodeview (from `../`)
+
+EXTERNAL SOURCES:
+  kpcodeview:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  kpcodeview: 157b7efecc2e3f99ff2b40f559aab90ac78ad675
+
+PODFILE CHECKSUM: 2dae64f4e62da901a10f38cca35951b816834ed2
+
+COCOAPODS: 1.6.0.beta.2

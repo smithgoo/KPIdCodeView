@@ -1,0 +1,22 @@
+{
+  "name": "kpcodeview",
+  "version": "0.1.0",
+  "summary": "A short description of kpcodeview.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/kpeng/kpcodeview",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kpeng": "294336370@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/kpeng/kpcodeview.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "kpcodeview/Classes/**/*"
+}
