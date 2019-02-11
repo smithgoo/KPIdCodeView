@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/smithgoo/kpcodeview'
+  s.homepage         = 'https://github.com/smithgoo/KPIdCodeView'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'kpeng' => '294336370@qq.com' }
-  s.source           = { :git => 'https://github.com/smithgoo/kpcodeview.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/smithgoo/KPIdCodeView.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
